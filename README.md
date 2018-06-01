@@ -1,5 +1,7 @@
 # hexofDockerNginx
 
+hexo deploy nginx use docker
+
 ## how to use
 
 * install docker, docker compose.
